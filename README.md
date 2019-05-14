@@ -1,2 +1,3 @@
 # Homepage
-My very own personal website. Basically this is just a résumé
+This is a  RYU HOSHI résumé!
+https://afoninpavel.github.io/homepage/
